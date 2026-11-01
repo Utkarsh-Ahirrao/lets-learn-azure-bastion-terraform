@@ -2,6 +2,10 @@
 
 A hands-on project demonstrating how to deploy **Azure Bastion using Terraform** and establish secure SSH connectivity to Azure Virtual Machines without exposing them directly to the public internet.
 
+## 🏗️ Azure Bastion Architecture
+
+![Azure Bastion Connection Flow](images/azure-bastion-connection-flow.gif)
+
 ## 1. 🎯 Project Overview
 
 This project provisions Azure Bastion and its required networking infrastructure using reusable Terraform modules.
